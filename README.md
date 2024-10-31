@@ -67,3 +67,6 @@ git clone https://github.com/SrIruma/RaylibTemplate.git
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## ¡Tu apoyo cuenta!
+Si este repositorio te ha sido útil, considera dejarme una estrellita ⭐ en GitHub. Tu apoyo no solo me motiva, sino que también ayuda a otros a encontrar este recurso. ¡Gracias por tu apoyo y feliz programación! 😊
