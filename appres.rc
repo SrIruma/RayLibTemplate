@@ -1,0 +1,24 @@
+GLFW_ICON ICON "AppIcon.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"  // English US
+    BEGIN
+      VALUE "CompanyName", "Kozmio Studios"
+      VALUE "FileDescription", "Eternal Darkness - Medieval World Adventure Game"
+      VALUE "FileVersion", "1.0.0"
+      VALUE "InternalName", "EternalDarkness"
+      VALUE "LegalCopyright", "Copyright (C) 2024 Kozmio Studios"
+      VALUE "ProductName", "Eternal Darkness"
+      VALUE "ProductVersion", "1.0.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252  // English US
+  END
+END
