@@ -206,6 +206,9 @@ PublishScripts/
 *.nuget.props
 *.nuget.targets
 
+# Winres compiled resource data
+*.rc.data
+
 # Microsoft Azure Build Output
 csx/
 *.build.csdef
